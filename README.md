@@ -4,15 +4,15 @@
 #### 1. 脚手架全局安装
 
 ```
-npm i create-hyui-app -g
+npm i create-web-template -g
 ```
 
 #### 2. 脚手架安装完成后，直接使用终端打开输入
 ```
-create-hyui-app
+create-web-template
 ```
 
 #### 3. 示例
-![image-20220521225421036](https://swwblog.oss-cn-beijing.aliyuncs.com/juejin/image-20220521225421036.png)
+![image-20220522222718130](https://swwblog.oss-cn-beijing.aliyuncs.com/juejin/image-20220522222718130.png)
 
 ####  后续继续开放一些学习模板
