@@ -1,9 +1,9 @@
 {
-  "name": "create-hyui-app",
-  "version": "1.0.9",
+  "name": "create-web-template",
+  "version": "1.0.1",
   "description": "前端项目脚手架",
   "bin": {
-    "create-hyui-app": "index.js"
+    "create-web-template": "index.js"
   },
   "main": "index.js",
   "scripts": {
